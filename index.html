@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 启用正式内容前，请删除下面这行，让搜索引擎重新收录 -->
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141413" media="(prefers-color-scheme: dark)">
+<title>此处留空</title>
+<style>
+  :root {
+    --bg: #fbfaf7;
+    --fg: #24231f;
+    --muted: #8a877d;
+    --line: #e5e2d9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141413;
+      --fg: #ecebe6;
+      --muted: #8b8880;
+      --line: #2c2b28;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                 "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { max-width: 30rem; text-align: center; }
+  .mark {
+    position: relative;
+    width: 42px;
+    height: 42px;
+    margin: 0 auto 28px;
+    border: 1.5px solid var(--line);
+    border-radius: 50%;
+  }
+  .mark::after {
+    content: "";
+    position: absolute;
+    inset: 13px;
+    border-radius: 50%;
+    background: var(--muted);
+    opacity: .55;
+  }
+  h1 {
+    margin: 0 0 12px;
+    font-size: 1.375rem;
+    font-weight: 500;
+    letter-spacing: .02em;
+  }
+  p { margin: 0; font-size: .9375rem; line-height: 1.75; color: var(--muted); }
+  footer { margin-top: 32px; font-size: .8125rem; color: var(--muted); opacity: .7; }
+</style>
+</head>
+<body>
+<main>
+  <div class="mark" aria-hidden="true"></div>
+  <h1>此处留空</h1>
+  <p>这一页暂时没有内容，留作日后使用。</p>
+  <footer>gzxyc.github.io</footer>
+</main>
+</body>
+</html>
