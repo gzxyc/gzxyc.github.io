@@ -1,0 +1,79 @@
+{
+  "name": "China Shenzhen Huaqiangbei Electronics",
+  "brandMain": "Huaqiangbei",
+  "brandAccent": "Electronics",
+  "tagline": "Factory-direct tech from Shenzhen, China",
+  "description": "China Shenzhen Huaqiangbei Electronics — factory-direct electronics from Huaqiangbei, Shenzhen. TWS earbuds, smart watches, power banks, keyboards and more, hand-picked, compared and priced at the source. No middlemen, no retail markup.",
+  "language": "en",
+  "locale": "en-US",
+  "accent": "#c1362e",
+  "email": "hello@hqbelectronics.example",
+  "sellingPoints": [
+    {
+      "icon": "source",
+      "title": "Straight from Huaqiangbei",
+      "text": "We source from the world's biggest electronics market — you pay factory prices, not retail."
+    },
+    {
+      "icon": "value",
+      "title": "High quality, low price",
+      "text": "Every pick is checked for real-world quality. Feature-per-dollar is what we optimize for."
+    },
+    {
+      "icon": "curated",
+      "title": "Hand-picked & compared",
+      "text": "We do the digging across thousands of listings so you don't have to."
+    }
+  ],
+  "affiliate": {
+    "program": "AliExpress Portals (official affiliate program)",
+    "status": "placeholder",
+    "note": "TWO-LAYER TRACKING. (1) Per-product affLink: paste the exact tracking short-link you generate in the AliExpress affiliate portal into each product's 'affLink' field — this is the most accurate. (2) Site-wide fallback: fill trackingId below; every product without an affLink will use linkTemplate with its AliExpress item ID + your tracking ID. Fill either or both.",
+    "trackingId": "YOUR_TRACKING_ID",
+    "linkTemplate": "https://www.aliexpress.com/item/{id}.html?tracking_id={tid}",
+    "disclosure": "We are an AliExpress affiliate. Buying through our links may earn us a commission — it never changes the price you pay, but it keeps this site running. All picks and opinions are our own."
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "url": "index.html"
+    },
+    {
+      "label": "All Products",
+      "url": "category.html"
+    },
+    {
+      "label": "Buying Guides",
+      "url": "guides.html"
+    },
+    {
+      "label": "Why Us",
+      "url": "about.html"
+    },
+    {
+      "label": "About",
+      "url": "about.html"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "All Products",
+      "url": "category.html"
+    },
+    {
+      "label": "Buying Guides",
+      "url": "guides.html"
+    },
+    {
+      "label": "Affiliate Disclosure",
+      "url": "about.html#disclosure"
+    },
+    {
+      "label": "Contact",
+      "url": "about.html#contact"
+    }
+  ],
+  "copyright": "China Shenzhen Huaqiangbei Electronics. All rights reserved.",
+  "nameZh": "中国深圳华强北电子产品",
+  "brandEyebrow": "CHINA · SHENZHEN"
+}

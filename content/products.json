@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "tws-earbuds-01",
+    "aliId": "1005007300000007919",
+    "affLink": "",
+    "name": "QCY T13 ANC 2 Wireless Earbuds, Bluetooth 5.3",
+    "category": "tws-earbuds",
+    "price": 21.99,
+    "compareAt": 59.99,
+    "rating": 4.7,
+    "reviews": 458,
+    "orders": 40883,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with deep hybrid ANC.",
+    "pros": [
+      "Built for deep hybrid ANC — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the deep hybrid ANC.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "ANC": "Hybrid 42dB",
+      "Battery": "38h with case",
+      "Driver": "10mm",
+      "Waterproof": "IPX5"
+    },
+    "tags": [
+      "Earbuds",
+      "deep hybrid ANC",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-02",
+    "aliId": "1005007300000015838",
+    "affLink": "",
+    "name": "Haylou GT7 Pro TWS, 4-Mic Call Noise Cancel",
+    "category": "tws-earbuds",
+    "price": 15.99,
+    "compareAt": 45.0,
+    "rating": 4.2,
+    "reviews": 7740,
+    "orders": 18243,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with 4-mic clear calls.",
+    "pros": [
+      "Built for 4-mic clear calls — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the 4-mic clear calls.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "Battery": "32h",
+      "Driver": "10mm",
+      "Latency": "65ms game mode",
+      "Charging": "USB-C"
+    },
+    "tags": [
+      "Earbuds",
+      "4-mic clear calls",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-03",
+    "aliId": "1005007300000023757",
+    "affLink": "",
+    "name": "SoundPEATS Air4 Lite, Hi-Res Audio",
+    "category": "tws-earbuds",
+    "price": 24.99,
+    "compareAt": 69.0,
+    "rating": 4.4,
+    "reviews": 5458,
+    "orders": 39351,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with Hi-Res LDAC sound.",
+    "pros": [
+      "Built for Hi-Res LDAC sound — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the Hi-Res LDAC sound.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "Codec": "LDAC / AAC",
+      "Battery": "30h",
+      "Driver": "13mm",
+      "Weight": "4.1g each"
+    },
+    "tags": [
+      "Earbuds",
+      "Hi-Res LDAC sound",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-04",
+    "aliId": "1005007300000031676",
+    "affLink": "",
+    "name": "Baseus Bowie WM02 TWS Earbuds",
+    "category": "tws-earbuds",
+    "price": 18.9,
+    "compareAt": 49.0,
+    "rating": 4.6,
+    "reviews": 9224,
+    "orders": 14873,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with LED power display.",
+    "pros": [
+      "Built for LED power display — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the LED power display.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "Battery": "35h",
+      "Driver": "10mm",
+      "Case": "LED display",
+      "Waterproof": "IPX4"
+    },
+    "tags": [
+      "Earbuds",
+      "LED power display",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-05",
+    "aliId": "1005007300000039595",
+    "affLink": "",
+    "name": "TWS Earbuds with LCD Digital Display, ENC",
+    "category": "tws-earbuds",
+    "price": 9.99,
+    "compareAt": 29.0,
+    "rating": 4.8,
+    "reviews": 8995,
+    "orders": 35981,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with digital battery display.",
+    "pros": [
+      "Built for digital battery display — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the digital battery display.",
+    "specs": {
+      "Bluetooth": "5.2",
+      "Battery": "25h",
+      "Display": "Digital LCD",
+      "Latency": "Low latency",
+      "Charging": "USB-C"
+    },
+    "tags": [
+      "Earbuds",
+      "digital battery display",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-06",
+    "aliId": "1005007300000047514",
+    "affLink": "",
+    "name": "Wireless Earbuds Bluetooth 5.3, 48H Playtime",
+    "category": "tws-earbuds",
+    "price": 12.99,
+    "compareAt": 39.0,
+    "rating": 4.3,
+    "reviews": 4548,
+    "orders": 1926,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with 48-hour playtime.",
+    "pros": [
+      "Built for 48-hour playtime — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the 48-hour playtime.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "Battery": "48h",
+      "Driver": "12mm",
+      "Waterproof": "IPX7",
+      "Touch": "Smart touch"
+    },
+    "tags": [
+      "Earbuds",
+      "48-hour playtime",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-07",
+    "aliId": "1005007300000055433",
+    "affLink": "",
+    "name": "Gaming Earbuds Low Latency 45ms, TWS",
+    "category": "tws-earbuds",
+    "price": 16.5,
+    "compareAt": 46.0,
+    "rating": 4.5,
+    "reviews": 8861,
+    "orders": 42188,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with 45ms game latency.",
+    "pros": [
+      "Built for 45ms game latency — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the 45ms game latency.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "Latency": "45ms",
+      "Battery": "30h",
+      "Mic": "Dual mic",
+      "Mode": "Game/Music"
+    },
+    "tags": [
+      "Earbuds",
+      "45ms game latency",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-08",
+    "aliId": "1005007300000063352",
+    "affLink": "",
+    "name": "Open-Ear Clip Earbuds, Bone Conductive",
+    "category": "tws-earbuds",
+    "price": 22.9,
+    "compareAt": 65.0,
+    "rating": 4.7,
+    "reviews": 6342,
+    "orders": 58394,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with open-ear comfort.",
+    "pros": [
+      "Built for open-ear comfort — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the open-ear comfort.",
+    "specs": {
+      "Type": "Open-ear clip",
+      "Bluetooth": "5.3",
+      "Battery": "30h",
+      "Waterproof": "IPX5",
+      "Weight": "5g"
+    },
+    "tags": [
+      "Earbuds",
+      "open-ear comfort",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-09",
+    "aliId": "1005007300000071271",
+    "affLink": "",
+    "name": "ANC Earbuds with Transparency Mode, IPX7",
+    "category": "tws-earbuds",
+    "price": 27.99,
+    "compareAt": 79.0,
+    "rating": 4.8,
+    "reviews": 5803,
+    "orders": 38818,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with transparency mode.",
+    "pros": [
+      "Built for transparency mode — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the transparency mode.",
+    "specs": {
+      "Bluetooth": "5.3",
+      "ANC": "Hybrid 45dB",
+      "Battery": "40h",
+      "Waterproof": "IPX7",
+      "Codec": "AAC/SBC"
+    },
+    "tags": [
+      "Earbuds",
+      "transparency mode",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "tws-earbuds-10",
+    "aliId": "1005007300000079190",
+    "affLink": "",
+    "name": "Mini Invisible TWS Earbuds, Ultra Small",
+    "category": "tws-earbuds",
+    "price": 11.9,
+    "compareAt": 33.0,
+    "rating": 4.6,
+    "reviews": 7256,
+    "orders": 56809,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-tws-earbuds.svg",
+    "tagline": "Factory-direct earbuds with ultra-small invisible fit.",
+    "pros": [
+      "Built for ultra-small invisible fit — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in TWS Earbuds. You are paying for the hardware, not a marketing budget — and it shows in the ultra-small invisible fit.",
+    "specs": {
+      "Bluetooth": "5.2",
+      "Battery": "22h",
+      "Size": "Ultra mini",
+      "Weight": "3.2g each",
+      "Charging": "USB-C"
+    },
+    "tags": [
+      "Earbuds",
+      "ultra-small invisible fit",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-01",
+    "aliId": "1005007300000087109",
+    "affLink": "",
+    "name": "Smart Watch AMOLED 1.85\", Bluetooth Call",
+    "category": "smart-watches",
+    "price": 26.99,
+    "compareAt": 89.0,
+    "rating": 4.6,
+    "reviews": 4319,
+    "orders": 44762,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with AMOLED always-on display.",
+    "pros": [
+      "Built for AMOLED always-on display — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the AMOLED always-on display.",
+    "specs": {
+      "Screen": "1.85\" AMOLED",
+      "Resolution": "390x450",
+      "Battery": "7 days",
+      "Health": "HR / SpO2 / Sleep",
+      "Waterproof": "IP68"
+    },
+    "tags": [
+      "Watches",
+      "AMOLED always-on display",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-02",
+    "aliId": "1005007300000095028",
+    "affLink": "",
+    "name": "Haylou RS4 Plus Smartwatch, GPS",
+    "category": "smart-watches",
+    "price": 35.99,
+    "compareAt": 99.0,
+    "rating": 4.8,
+    "reviews": 8085,
+    "orders": 20285,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with built-in GPS.",
+    "pros": [
+      "Built for built-in GPS — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the built-in GPS.",
+    "specs": {
+      "Screen": "1.78\" AMOLED",
+      "GPS": "Built-in GPS",
+      "Battery": "12 days",
+      "Health": "HR / SpO2",
+      "Waterproof": "5ATM"
+    },
+    "tags": [
+      "Watches",
+      "built-in GPS",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-03",
+    "aliId": "1005007300000102947",
+    "affLink": "",
+    "name": " rugged Military Smart Watch, 400mAh",
+    "category": "smart-watches",
+    "price": 29.9,
+    "compareAt": 85.0,
+    "rating": 4.2,
+    "reviews": 5803,
+    "orders": 41392,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with military rugged build.",
+    "pros": [
+      "Built for military rugged build — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the military rugged build.",
+    "specs": {
+      "Screen": "1.7\" TFT",
+      "Battery": "15 days",
+      "Waterproof": "IP68 / Military",
+      "Sensor": "Compass / Barometer",
+      "Call": "Bluetooth call"
+    },
+    "tags": [
+      "Watches",
+      "military rugged build",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-04",
+    "aliId": "1005007300000110866",
+    "affLink": "",
+    "name": "Smart Watch for Women, Slim Metal Band",
+    "category": "smart-watches",
+    "price": 19.99,
+    "compareAt": 59.0,
+    "rating": 4.5,
+    "reviews": 9569,
+    "orders": 16915,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with slim fashion design.",
+    "pros": [
+      "Built for slim fashion design — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the slim fashion design.",
+    "specs": {
+      "Screen": "1.43\" AMOLED",
+      "Band": "Metal mesh",
+      "Battery": "5 days",
+      "Health": "HR / Sleep",
+      "Modes": "100+ sport"
+    },
+    "tags": [
+      "Watches",
+      "slim fashion design",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-05",
+    "aliId": "1005007300000118785",
+    "affLink": "",
+    "name": "Kids GPS Smart Watch, 4G Video Call",
+    "category": "smart-watches",
+    "price": 42.0,
+    "compareAt": 120.0,
+    "rating": 4.6,
+    "reviews": 9340,
+    "orders": 38023,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with 4G video calling for kids.",
+    "pros": [
+      "Built for 4G video calling for kids — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the 4G video calling for kids.",
+    "specs": {
+      "Network": "4G LTE",
+      "GPS": "GPS+WiFi+LBS",
+      "Camera": "Front camera",
+      "Battery": "5 days",
+      "Waterproof": "IP67"
+    },
+    "tags": [
+      "Watches",
+      "4G video calling for kids",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-06",
+    "aliId": "1005007300000126704",
+    "affLink": "",
+    "name": "Amazfit-style Fitness Watch, 120 Sport Modes",
+    "category": "smart-watches",
+    "price": 33.5,
+    "compareAt": 95.0,
+    "rating": 4.9,
+    "reviews": 5203,
+    "orders": 5805,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with 120 sport modes.",
+    "pros": [
+      "Built for 120 sport modes — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the 120 sport modes.",
+    "specs": {
+      "Screen": "1.6\" AMOLED",
+      "Sports": "120 modes",
+      "Battery": "10 days",
+      "Health": "HR / SpO2 / Stress",
+      "Waterproof": "5ATM"
+    },
+    "tags": [
+      "Watches",
+      "120 sport modes",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-07",
+    "aliId": "1005007300000134623",
+    "affLink": "",
+    "name": "Smart Watch with NFC, Contactless Payment",
+    "category": "smart-watches",
+    "price": 31.0,
+    "compareAt": 88.0,
+    "rating": 4.3,
+    "reviews": 2611,
+    "orders": 44230,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with NFC contactless.",
+    "pros": [
+      "Built for NFC contactless — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the NFC contactless.",
+    "specs": {
+      "Screen": "1.85\" TFT",
+      "NFC": "Yes",
+      "Battery": "8 days",
+      "Health": "HR / SpO2",
+      "Waterproof": "IP68"
+    },
+    "tags": [
+      "Watches",
+      "NFC contactless",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-08",
+    "aliId": "1005007300000142542",
+    "affLink": "",
+    "name": "Round Face Smart Watch, Leather Strap",
+    "category": "smart-watches",
+    "price": 22.9,
+    "compareAt": 66.0,
+    "rating": 4.6,
+    "reviews": 6687,
+    "orders": 2436,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with classic round face.",
+    "pros": [
+      "Built for classic round face — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the classic round face.",
+    "specs": {
+      "Screen": "1.3\" Round",
+      "Strap": "Leather",
+      "Battery": "6 days",
+      "Health": "HR / Sleep",
+      "Call": "Bluetooth call"
+    },
+    "tags": [
+      "Watches",
+      "classic round face",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-09",
+    "aliId": "1005007300000150461",
+    "affLink": "",
+    "name": "Smart Bracelet Watch, 1.47\" Full Screen",
+    "category": "smart-watches",
+    "price": 15.9,
+    "compareAt": 45.0,
+    "rating": 4.7,
+    "reviews": 6458,
+    "orders": 42697,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with full-screen budget pick.",
+    "pros": [
+      "Built for full-screen budget pick — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the full-screen budget pick.",
+    "specs": {
+      "Screen": "1.47\" TFT",
+      "Battery": "7 days",
+      "Health": "HR / BP / SpO2",
+      "Waterproof": "IP67",
+      "Modes": "Multiple sport"
+    },
+    "tags": [
+      "Watches",
+      "full-screen budget pick",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-watches-10",
+    "aliId": "1005007300000158380",
+    "affLink": "",
+    "name": "Luxury Diamond Smart Watch, Custom Dial",
+    "category": "smart-watches",
+    "price": 38.9,
+    "compareAt": 110.0,
+    "rating": 4.2,
+    "reviews": 6459,
+    "orders": 52095,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-smart-watches.svg",
+    "tagline": "Factory-direct watches with luxury custom design.",
+    "pros": [
+      "Built for luxury custom design — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Watches. You are paying for the hardware, not a marketing budget — and it shows in the luxury custom design.",
+    "specs": {
+      "Screen": "1.5\" HD",
+      "Band": "Diamond metal",
+      "Battery": "5 days",
+      "Dial": "Custom watch face",
+      "Health": "HR / Sleep"
+    },
+    "tags": [
+      "Watches",
+      "luxury custom design",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-01",
+    "aliId": "1005007300000166299",
+    "affLink": "",
+    "name": "20000mAh Power Bank, 65W PD Fast Charge",
+    "category": "power-banks",
+    "price": 27.99,
+    "compareAt": 69.0,
+    "rating": 4.3,
+    "reviews": 9507,
+    "orders": 24284,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with 65W laptop charging.",
+    "pros": [
+      "Built for 65W laptop charging — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the 65W laptop charging.",
+    "specs": {
+      "Capacity": "20000mAh",
+      "Output": "65W PD",
+      "Ports": "USB-C x2 + USB-A",
+      "Display": "Digital %",
+      "Protocol": "QC/PD3.0"
+    },
+    "tags": [
+      "Power",
+      "65W laptop charging",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-02",
+    "aliId": "1005007300000174218",
+    "affLink": "",
+    "name": "Baseus 10000mAh Magnetic Power Bank, MagSafe",
+    "category": "power-banks",
+    "price": 24.9,
+    "compareAt": 65.0,
+    "rating": 4.5,
+    "reviews": 3473,
+    "orders": 38838,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with magnetic MagSafe snap-on.",
+    "pros": [
+      "Built for magnetic MagSafe snap-on — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the magnetic MagSafe snap-on.",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Type": "Magnetic wireless",
+      "Output": "22.5W",
+      "Wireless": "15W MagSafe",
+      "Slim": "Yes"
+    },
+    "tags": [
+      "Power",
+      "magnetic MagSafe snap-on",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-03",
+    "aliId": "1005007300000182137",
+    "affLink": "",
+    "name": "30000mAh Power Bank, 22.5W, LED Display",
+    "category": "power-banks",
+    "price": 32.0,
+    "compareAt": 85.0,
+    "rating": 4.7,
+    "reviews": 1191,
+    "orders": 20914,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with massive 30000mAh capacity.",
+    "pros": [
+      "Built for massive 30000mAh capacity — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the massive 30000mAh capacity.",
+    "specs": {
+      "Capacity": "30000mAh",
+      "Output": "22.5W",
+      "Ports": "4 ports",
+      "Display": "LED digital",
+      "Flashlight": "Yes"
+    },
+    "tags": [
+      "Power",
+      "massive 30000mAh capacity",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-04",
+    "aliId": "1005007300000190056",
+    "affLink": "",
+    "name": "Mini 10000mAh Power Bank, Pocket Size",
+    "category": "power-banks",
+    "price": 12.9,
+    "compareAt": 35.0,
+    "rating": 4.8,
+    "reviews": 2817,
+    "orders": 56501,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with pocket-sized 10000mAh.",
+    "pros": [
+      "Built for pocket-sized 10000mAh — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the pocket-sized 10000mAh.",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Output": "22.5W",
+      "Size": "Pocket mini",
+      "Ports": "USB-C + USB-A",
+      "Weight": "180g"
+    },
+    "tags": [
+      "Power",
+      "pocket-sized 10000mAh",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-05",
+    "aliId": "1005007300000197975",
+    "affLink": "",
+    "name": "Solar Power Bank 20000mAh, Waterproof",
+    "category": "power-banks",
+    "price": 26.5,
+    "compareAt": 72.0,
+    "rating": 4.2,
+    "reviews": 2589,
+    "orders": 19794,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with solar charging for outdoors.",
+    "pros": [
+      "Built for solar charging for outdoors — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the solar charging for outdoors.",
+    "specs": {
+      "Capacity": "20000mAh",
+      "Solar": "Yes",
+      "Output": "18W",
+      "Waterproof": "IPX4",
+      "Flashlight": "LED"
+    },
+    "tags": [
+      "Power",
+      "solar charging for outdoors",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-06",
+    "aliId": "1005007300000205894",
+    "affLink": "",
+    "name": "Power Bank with Built-in Cables, 20000mAh",
+    "category": "power-banks",
+    "price": 23.9,
+    "compareAt": 62.0,
+    "rating": 4.4,
+    "reviews": 8252,
+    "orders": 45577,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with built-in cables, no extras.",
+    "pros": [
+      "Built for built-in cables, no extras — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the built-in cables, no extras.",
+    "specs": {
+      "Capacity": "20000mAh",
+      "Cables": "Built-in 3",
+      "Output": "22.5W",
+      "Display": "Digital",
+      "Ports": "Type-C/Lightning/Micro"
+    },
+    "tags": [
+      "Power",
+      "built-in cables, no extras",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-07",
+    "aliId": "1005007300000213813",
+    "affLink": "",
+    "name": "65W GaN Charger Power Bank 2-in-1",
+    "category": "power-banks",
+    "price": 39.9,
+    "compareAt": 105.0,
+    "rating": 4.6,
+    "reviews": 4073,
+    "orders": 16425,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with GaN charger + power bank.",
+    "pros": [
+      "Built for GaN charger + power bank — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the GaN charger + power bank.",
+    "specs": {
+      "Capacity": "15000mAh",
+      "Output": "65W GaN",
+      "Type": "Charger+Bank",
+      "Ports": "USB-C x2",
+      "Display": "LED"
+    },
+    "tags": [
+      "Power",
+      "GaN charger + power bank",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-08",
+    "aliId": "1005007300000221732",
+    "affLink": "",
+    "name": "Wireless Power Bank 10000mAh, 15W Qi",
+    "category": "power-banks",
+    "price": 21.0,
+    "compareAt": 58.0,
+    "rating": 4.7,
+    "reviews": 6009,
+    "orders": 53849,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with 15W wireless charging.",
+    "pros": [
+      "Built for 15W wireless charging — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the 15W wireless charging.",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Wireless": "15W Qi",
+      "Output": "20W PD",
+      "Slim": "Yes",
+      "Coil": "Magnetic"
+    },
+    "tags": [
+      "Power",
+      "15W wireless charging",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-09",
+    "aliId": "1005007300000229651",
+    "affLink": "",
+    "name": "20000mAh Power Bank for Laptop, 100W",
+    "category": "power-banks",
+    "price": 44.9,
+    "compareAt": 119.0,
+    "rating": 4.8,
+    "reviews": 5781,
+    "orders": 35925,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with 100W laptop-grade output.",
+    "pros": [
+      "Built for 100W laptop-grade output — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the 100W laptop-grade output.",
+    "specs": {
+      "Capacity": "20000mAh",
+      "Output": "100W",
+      "Laptop": "Supported",
+      "Ports": "USB-C PD x2",
+      "Display": "Digital"
+    },
+    "tags": [
+      "Power",
+      "100W laptop-grade output",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "power-banks-10",
+    "aliId": "1005007300000237570",
+    "affLink": "",
+    "name": "Cute Cartoon Power Bank 10000mAh, LED",
+    "category": "power-banks",
+    "price": 14.9,
+    "compareAt": 40.0,
+    "rating": 4.7,
+    "reviews": 3121,
+    "orders": 1215,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-power-banks.svg",
+    "tagline": "Factory-direct power with fun cartoon design.",
+    "pros": [
+      "Built for fun cartoon design — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Power Banks. You are paying for the hardware, not a marketing budget — and it shows in the fun cartoon design.",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Output": "18W",
+      "Design": "Cute cartoon",
+      "Display": "LED number",
+      "Ports": "Dual"
+    },
+    "tags": [
+      "Power",
+      "fun cartoon design",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-01",
+    "aliId": "1005007300000245489",
+    "affLink": "",
+    "name": "Magnetic Case for iPhone 15/16, MagSafe",
+    "category": "phone-cases",
+    "price": 5.9,
+    "compareAt": 19.0,
+    "rating": 4.7,
+    "reviews": 1572,
+    "orders": 3281,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with MagSafe magnetic lock.",
+    "pros": [
+      "Built for MagSafe magnetic lock — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the MagSafe magnetic lock.",
+    "specs": {
+      "Compatibility": "iPhone 15/16",
+      "Type": "MagSafe magnetic",
+      "Material": "TPU+PC",
+      "Feature": "Camera protection",
+      "Color": "Clear"
+    },
+    "tags": [
+      "Cases",
+      "MagSafe magnetic lock",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-02",
+    "aliId": "1005007300000253408",
+    "affLink": "",
+    "name": "Rugged Shockproof Case, Military Grade",
+    "category": "phone-cases",
+    "price": 6.5,
+    "compareAt": 22.0,
+    "rating": 4.5,
+    "reviews": 5709,
+    "orders": 35498,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with military shockproof.",
+    "pros": [
+      "Built for military shockproof — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the military shockproof.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Protection": "Military 10ft",
+      "Material": "TPU+PC",
+      "Feature": "Anti-slip",
+      "Waterproof": "Dustproof"
+    },
+    "tags": [
+      "Cases",
+      "military shockproof",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-03",
+    "aliId": "1005007300000261327",
+    "affLink": "",
+    "name": "Clear Silicone Case, Anti-Yellowing",
+    "category": "phone-cases",
+    "price": 3.99,
+    "compareAt": 13.0,
+    "rating": 4.3,
+    "reviews": 5937,
+    "orders": 53422,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with anti-yellowing clear.",
+    "pros": [
+      "Built for anti-yellowing clear — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the anti-yellowing clear.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Material": "Silicone",
+      "Feature": "Anti-yellow",
+      "Thickness": "Slim",
+      "Color": "Transparent"
+    },
+    "tags": [
+      "Cases",
+      "anti-yellowing clear",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-04",
+    "aliId": "1005007300000269246",
+    "affLink": "",
+    "name": "Wallet Case with Card Holder & Stand",
+    "category": "phone-cases",
+    "price": 7.9,
+    "compareAt": 25.0,
+    "rating": 4.8,
+    "reviews": 2171,
+    "orders": 38868,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with built-in wallet & stand.",
+    "pros": [
+      "Built for built-in wallet & stand — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the built-in wallet & stand.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Feature": "Card slot + stand",
+      "Material": "PU leather",
+      "Closure": "Flip",
+      "Color": "Multiple"
+    },
+    "tags": [
+      "Cases",
+      "built-in wallet & stand",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-05",
+    "aliId": "1005007300000277165",
+    "affLink": "",
+    "name": "Camera Lens Protector + Case Combo",
+    "category": "phone-cases",
+    "price": 8.5,
+    "compareAt": 26.0,
+    "rating": 4.6,
+    "reviews": 4453,
+    "orders": 56792,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with full camera protection.",
+    "pros": [
+      "Built for full camera protection — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the full camera protection.",
+    "specs": {
+      "Compatibility": "Pro models",
+      "Feature": "Lens protector included",
+      "Material": "Tempered glass+TPU",
+      "Protection": "Full cover",
+      "Color": "Clear"
+    },
+    "tags": [
+      "Cases",
+      "full camera protection",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-06",
+    "aliId": "1005007300000285084",
+    "affLink": "",
+    "name": "Tempered Glass Screen Protector 3-Pack",
+    "category": "phone-cases",
+    "price": 2.99,
+    "compareAt": 10.0,
+    "rating": 4.4,
+    "reviews": 687,
+    "orders": 42238,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with 9H tempered glass 3-pack.",
+    "pros": [
+      "Built for 9H tempered glass 3-pack — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the 9H tempered glass 3-pack.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Type": "Tempered glass",
+      "Pack": "3 pieces",
+      "Hardness": "9H",
+      "Feature": "Easy install frame"
+    },
+    "tags": [
+      "Cases",
+      "9H tempered glass 3-pack",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-07",
+    "aliId": "1005007300000293003",
+    "affLink": "",
+    "name": "Carbon Fiber Texture Case, Slim Fit",
+    "category": "phone-cases",
+    "price": 4.9,
+    "compareAt": 16.0,
+    "rating": 4.2,
+    "reviews": 916,
+    "orders": 2162,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with carbon fiber slim fit.",
+    "pros": [
+      "Built for carbon fiber slim fit — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the carbon fiber slim fit.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Material": "TPU",
+      "Texture": "Carbon fiber",
+      "Thickness": "Ultra slim",
+      "Finish": "Matte"
+    },
+    "tags": [
+      "Cases",
+      "carbon fiber slim fit",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-08",
+    "aliId": "1005007300000300922",
+    "affLink": "",
+    "name": "Leather Flip Case with Magnetic Closure",
+    "category": "phone-cases",
+    "price": 9.9,
+    "compareAt": 30.0,
+    "rating": 4.3,
+    "reviews": 1429,
+    "orders": 22324,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with premium leather flip.",
+    "pros": [
+      "Built for premium leather flip — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the premium leather flip.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Material": "PU leather",
+      "Type": "Flip wallet",
+      "Closure": "Magnetic",
+      "Stand": "Yes"
+    },
+    "tags": [
+      "Cases",
+      "premium leather flip",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-09",
+    "aliId": "1005007300000308841",
+    "affLink": "",
+    "name": "Transparent Glitter Case, Bling Cover",
+    "category": "phone-cases",
+    "price": 5.5,
+    "compareAt": 18.0,
+    "rating": 4.8,
+    "reviews": 3711,
+    "orders": 40248,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with glitter bling style.",
+    "pros": [
+      "Built for glitter bling style — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the glitter bling style.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Material": "TPU",
+      "Effect": "Glitter bling",
+      "Thickness": "Slim",
+      "Color": "Multiple"
+    },
+    "tags": [
+      "Cases",
+      "glitter bling style",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "phone-cases-10",
+    "aliId": "1005007300000316760",
+    "affLink": "",
+    "name": "Phone Case with Ring Holder & Kickstand",
+    "category": "phone-cases",
+    "price": 4.5,
+    "compareAt": 15.0,
+    "rating": 4.5,
+    "reviews": 6071,
+    "orders": 8366,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-phone-cases.svg",
+    "tagline": "Factory-direct cases with ring holder kickstand.",
+    "pros": [
+      "Built for ring holder kickstand — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Phone Cases. You are paying for the hardware, not a marketing budget — and it shows in the ring holder kickstand.",
+    "specs": {
+      "Compatibility": "Most models",
+      "Feature": "Ring stand",
+      "Material": "TPU+PC",
+      "Magnetic": "Car mount ready",
+      "Color": "Multiple"
+    },
+    "tags": [
+      "Cases",
+      "ring holder kickstand",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-01",
+    "aliId": "1005007300000324679",
+    "affLink": "",
+    "name": "65W GaN USB-C Charger, 3-Port PD",
+    "category": "chargers",
+    "price": 24.99,
+    "compareAt": 65.0,
+    "rating": 4.2,
+    "reviews": 664,
+    "orders": 54250,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with compact 65W GaN.",
+    "pros": [
+      "Built for compact 65W GaN — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the compact 65W GaN.",
+    "specs": {
+      "Power": "65W",
+      "Ports": "2C+1A",
+      "Tech": "GaN III",
+      "Protocol": "PD3.0/QC4",
+      "Plug": "US/EU/UK"
+    },
+    "tags": [
+      "Charging",
+      "compact 65W GaN",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-02",
+    "aliId": "1005007300000332598",
+    "affLink": "",
+    "name": "100W GaN Charger, 4-Port Fast Charger",
+    "category": "chargers",
+    "price": 38.9,
+    "compareAt": 99.0,
+    "rating": 4.4,
+    "reviews": 9208,
+    "orders": 36326,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with 100W multi-port GaN.",
+    "pros": [
+      "Built for 100W multi-port GaN — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the 100W multi-port GaN.",
+    "specs": {
+      "Power": "100W",
+      "Ports": "3C+1A",
+      "Tech": "GaN",
+      "Protocol": "PD3.0/QC",
+      "Laptop": "Supported"
+    },
+    "tags": [
+      "Charging",
+      "100W multi-port GaN",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-03",
+    "aliId": "1005007300000340517",
+    "affLink": "",
+    "name": "USB-C Cable 100W, Braided 2m 3-Pack",
+    "category": "chargers",
+    "price": 9.9,
+    "compareAt": 28.0,
+    "rating": 4.5,
+    "reviews": 8980,
+    "orders": 57620,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with 100W braided cable 3-pack.",
+    "pros": [
+      "Built for 100W braided cable 3-pack — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the 100W braided cable 3-pack.",
+    "specs": {
+      "Power": "100W",
+      "Length": "2m",
+      "Type": "USB-C to C",
+      "Material": "Nylon braided",
+      "Pack": "3"
+    },
+    "tags": [
+      "Charging",
+      "100W braided cable 3-pack",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-04",
+    "aliId": "1005007300000348436",
+    "affLink": "",
+    "name": "3-in-1 Charging Cable, Type-C/Micro/Lightning",
+    "category": "chargers",
+    "price": 6.9,
+    "compareAt": 19.0,
+    "rating": 4.9,
+    "reviews": 9864,
+    "orders": 18663,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with one cable, three connectors.",
+    "pros": [
+      "Built for one cable, three connectors — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the one cable, three connectors.",
+    "specs": {
+      "Type": "3-in-1",
+      "Length": "1.5m",
+      "Output": "3A fast",
+      "Material": "Nylon",
+      "Plug": "USB-A"
+    },
+    "tags": [
+      "Charging",
+      "one cable, three connectors",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-05",
+    "aliId": "1005007300000356355",
+    "affLink": "",
+    "name": "Wireless Charging Pad 15W, Slim",
+    "category": "chargers",
+    "price": 11.9,
+    "compareAt": 32.0,
+    "rating": 4.3,
+    "reviews": 7582,
+    "orders": 58739,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with 15W wireless charging pad.",
+    "pros": [
+      "Built for 15W wireless charging pad — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the 15W wireless charging pad.",
+    "specs": {
+      "Power": "15W",
+      "Type": "Wireless pad",
+      "Compatibility": "Qi phones",
+      "Thickness": "Slim",
+      "Safety": "Overheat protect"
+    },
+    "tags": [
+      "Charging",
+      "15W wireless charging pad",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-06",
+    "aliId": "1005007300000364274",
+    "affLink": "",
+    "name": "20W PD Fast Charger USB-C, Mini",
+    "category": "chargers",
+    "price": 8.9,
+    "compareAt": 25.0,
+    "rating": 4.5,
+    "reviews": 6327,
+    "orders": 22033,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with mini 20W PD charger.",
+    "pros": [
+      "Built for mini 20W PD charger — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the mini 20W PD charger.",
+    "specs": {
+      "Power": "20W",
+      "Port": "USB-C",
+      "Protocol": "PD3.0/QC",
+      "Size": "Mini",
+      "Plug": "US/EU"
+    },
+    "tags": [
+      "Charging",
+      "mini 20W PD charger",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-07",
+    "aliId": "1005007300000372193",
+    "affLink": "",
+    "name": "Magnetic Wireless Charger for iPhone, 15W",
+    "category": "chargers",
+    "price": 18.9,
+    "compareAt": 52.0,
+    "rating": 4.6,
+    "reviews": 6098,
+    "orders": 4109,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with MagSafe magnetic wireless.",
+    "pros": [
+      "Built for MagSafe magnetic wireless — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the MagSafe magnetic wireless.",
+    "specs": {
+      "Power": "15W",
+      "Type": "Magnetic MagSafe",
+      "Compatibility": "iPhone 12-16",
+      "Cooling": "Vent",
+      "Cable": "Included"
+    },
+    "tags": [
+      "Charging",
+      "MagSafe magnetic wireless",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-08",
+    "aliId": "1005007300000380112",
+    "affLink": "",
+    "name": "Multi-Device Charging Station 6-in-1",
+    "category": "chargers",
+    "price": 32.0,
+    "compareAt": 88.0,
+    "rating": 4.4,
+    "reviews": 806,
+    "orders": 35207,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with 6-in-1 desk charging station.",
+    "pros": [
+      "Built for 6-in-1 desk charging station — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the 6-in-1 desk charging station.",
+    "specs": {
+      "Ports": "6-in-1",
+      "Output": "65W",
+      "Devices": "Phone/Watch/Buds",
+      "Type": "Dock station",
+      "Display": "LED"
+    },
+    "tags": [
+      "Charging",
+      "6-in-1 desk charging station",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-09",
+    "aliId": "1005007300000388031",
+    "affLink": "",
+    "name": "Retractable USB-C Cable, 3A Fast Charge",
+    "category": "chargers",
+    "price": 7.5,
+    "compareAt": 21.0,
+    "rating": 4.6,
+    "reviews": 8324,
+    "orders": 17283,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with tangle-free retractable.",
+    "pros": [
+      "Built for tangle-free retractable — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the tangle-free retractable.",
+    "specs": {
+      "Type": "Retractable",
+      "Length": "1m",
+      "Output": "3A",
+      "Connector": "USB-C",
+      "Portable": "Yes"
+    },
+    "tags": [
+      "Charging",
+      "tangle-free retractable",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "chargers-10",
+    "aliId": "1005007300000395950",
+    "affLink": "",
+    "name": "Car USB Charger Dual Port QC 3.0",
+    "category": "chargers",
+    "price": 9.9,
+    "compareAt": 26.0,
+    "rating": 4.5,
+    "reviews": 4513,
+    "orders": 40572,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-chargers.svg",
+    "tagline": "Factory-direct charging with fast dual-port car charger.",
+    "pros": [
+      "Built for fast dual-port car charger — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Chargers & Cables. You are paying for the hardware, not a marketing budget — and it shows in the fast dual-port car charger.",
+    "specs": {
+      "Power": "Quick 3.0",
+      "Ports": "Dual USB",
+      "Input": "12-24V",
+      "Safety": "Multi-protect",
+      "Size": "Mini"
+    },
+    "tags": [
+      "Charging",
+      "fast dual-port car charger",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-01",
+    "aliId": "1005007300000403869",
+    "affLink": "",
+    "name": "75% Mechanical Keyboard, Hot-Swap RGB",
+    "category": "keyboards",
+    "price": 42.0,
+    "compareAt": 109.0,
+    "rating": 4.3,
+    "reviews": 820,
+    "orders": 44678,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with hot-swap tri-mode RGB.",
+    "pros": [
+      "Built for hot-swap tri-mode RGB — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the hot-swap tri-mode RGB.",
+    "specs": {
+      "Layout": "75%",
+      "Switch": "Hot-swap",
+      "RGB": "Per-key",
+      "Connect": "Tri-mode",
+      "Keycaps": "PBT"
+    },
+    "tags": [
+      "Keyboards",
+      "hot-swap tri-mode RGB",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-02",
+    "aliId": "1005007300000411788",
+    "affLink": "",
+    "name": "60% Mechanical Gaming Keyboard, RGB",
+    "category": "keyboards",
+    "price": 29.9,
+    "compareAt": 79.0,
+    "rating": 4.9,
+    "reviews": 2075,
+    "orders": 4602,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with compact 60% gaming.",
+    "pros": [
+      "Built for compact 60% gaming — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the compact 60% gaming.",
+    "specs": {
+      "Layout": "60%",
+      "Switch": "Blue/Red/Brown",
+      "RGB": "Rainbow",
+      "Connect": "USB-C",
+      "Backlight": "Yes"
+    },
+    "tags": [
+      "Keyboards",
+      "compact 60% gaming",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-03",
+    "aliId": "1005007300000419707",
+    "affLink": "",
+    "name": "Kumara-style 96% Mechanical Keyboard",
+    "category": "keyboards",
+    "price": 48.0,
+    "compareAt": 125.0,
+    "rating": 4.7,
+    "reviews": 5944,
+    "orders": 31917,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with 96% wireless hot-swap.",
+    "pros": [
+      "Built for 96% wireless hot-swap — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the 96% wireless hot-swap.",
+    "specs": {
+      "Layout": "96%",
+      "Switch": "Hot-swap",
+      "RGB": "Per-key",
+      "Connect": "BT5.0/2.4G/USB",
+      "Battery": "4000mAh"
+    },
+    "tags": [
+      "Keyboards",
+      "96% wireless hot-swap",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-04",
+    "aliId": "1005007300000427626",
+    "affLink": "",
+    "name": "Low Profile Mechanical Keyboard, Slim",
+    "category": "keyboards",
+    "price": 55.0,
+    "compareAt": 139.0,
+    "rating": 4.6,
+    "reviews": 7509,
+    "orders": 12461,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with low-profile slim design.",
+    "pros": [
+      "Built for low-profile slim design — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the low-profile slim design.",
+    "specs": {
+      "Layout": "75%",
+      "Switch": "Low profile",
+      "Height": "Slim",
+      "Connect": "Tri-mode",
+      "Battery": "Rechargeable"
+    },
+    "tags": [
+      "Keyboards",
+      "low-profile slim design",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-05",
+    "aliId": "1005007300000435545",
+    "affLink": "",
+    "name": "Wireless Mechanical Keyboard with Number Pad",
+    "category": "keyboards",
+    "price": 39.9,
+    "compareAt": 99.0,
+    "rating": 4.4,
+    "reviews": 7738,
+    "orders": 30385,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with full-size with numpad.",
+    "pros": [
+      "Built for full-size with numpad — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the full-size with numpad.",
+    "specs": {
+      "Layout": "Full + numpad",
+      "Connect": "BT/2.4G",
+      "Switch": "Brown",
+      "Battery": "Rechargeable",
+      "RGB": "Backlit"
+    },
+    "tags": [
+      "Keyboards",
+      "full-size with numpad",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-06",
+    "aliId": "1005007300000443464",
+    "affLink": "",
+    "name": "Retro Typewriter Mechanical Keyboard",
+    "category": "keyboards",
+    "price": 46.0,
+    "compareAt": 119.0,
+    "rating": 4.3,
+    "reviews": 8993,
+    "orders": 9091,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with retro typewriter style.",
+    "pros": [
+      "Built for retro typewriter style — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the retro typewriter style.",
+    "specs": {
+      "Layout": "84 keys",
+      "Style": "Retro typewriter",
+      "Switch": "Hot-swap",
+      "Connect": "Tri-mode",
+      "Keycaps": "PBT round"
+    },
+    "tags": [
+      "Keyboards",
+      "retro typewriter style",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-07",
+    "aliId": "1005007300000451383",
+    "affLink": "",
+    "name": "Split Ergonomic Mechanical Keyboard",
+    "category": "keyboards",
+    "price": 68.0,
+    "compareAt": 169.0,
+    "rating": 4.8,
+    "reviews": 1475,
+    "orders": 27015,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with ergonomic split design.",
+    "pros": [
+      "Built for ergonomic split design — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the ergonomic split design.",
+    "specs": {
+      "Layout": "Split ergonomic",
+      "Switch": "Hot-swap",
+      "Connect": "USB-C",
+      "Feature": "Wrist rest",
+      "RGB": "Per-key"
+    },
+    "tags": [
+      "Keyboards",
+      "ergonomic split design",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-08",
+    "aliId": "1005007300000459302",
+    "affLink": "",
+    "name": "Mini 40% Mechanical Keyboard, Portable",
+    "category": "keyboards",
+    "price": 33.0,
+    "compareAt": 89.0,
+    "rating": 4.3,
+    "reviews": 8251,
+    "orders": 29005,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with ultra-portable 40%.",
+    "pros": [
+      "Built for ultra-portable 40% — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the ultra-portable 40%.",
+    "specs": {
+      "Layout": "40%",
+      "Switch": "Hot-swap",
+      "Connect": "BT/USB-C",
+      "Battery": "Rechargeable",
+      "RGB": "RGB backlit"
+    },
+    "tags": [
+      "Keyboards",
+      "ultra-portable 40%",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-09",
+    "aliId": "1005007300000467221",
+    "affLink": "",
+    "name": "Mechanical Keypad, Numpad 21-Key",
+    "category": "keyboards",
+    "price": 19.9,
+    "compareAt": 55.0,
+    "rating": 4.9,
+    "reviews": 8480,
+    "orders": 46929,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with dedicated mechanical numpad.",
+    "pros": [
+      "Built for dedicated mechanical numpad — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the dedicated mechanical numpad.",
+    "specs": {
+      "Layout": "21-key numpad",
+      "Switch": "Mechanical",
+      "Connect": "USB-C",
+      "RGB": "Backlit",
+      "Compatibility": "Plug & play"
+    },
+    "tags": [
+      "Keyboards",
+      "dedicated mechanical numpad",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "keyboards-10",
+    "aliId": "1005007300000475140",
+    "affLink": "",
+    "name": "Custom Keycap Set, PBT Dye-Sub",
+    "category": "keyboards",
+    "price": 24.9,
+    "compareAt": 65.0,
+    "rating": 4.6,
+    "reviews": 7206,
+    "orders": 48779,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-keyboards.svg",
+    "tagline": "Factory-direct keyboards with premium PBT keycap set.",
+    "pros": [
+      "Built for premium PBT keycap set — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Mechanical Keyboards. You are paying for the hardware, not a marketing budget — and it shows in the premium PBT keycap set.",
+    "specs": {
+      "Material": "PBT",
+      "Profile": "Cherry",
+      "Printing": "Dye-sub",
+      "Theme": "Multiple",
+      "Keys": "129 keys"
+    },
+    "tags": [
+      "Keyboards",
+      "premium PBT keycap set",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-01",
+    "aliId": "1005007300000483059",
+    "affLink": "",
+    "name": "JBL-style Portable Bluetooth Speaker, IPX7",
+    "category": "speakers",
+    "price": 28.9,
+    "compareAt": 79.0,
+    "rating": 4.5,
+    "reviews": 6403,
+    "orders": 7573,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with 40W waterproof sound.",
+    "pros": [
+      "Built for 40W waterproof sound — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the 40W waterproof sound.",
+    "specs": {
+      "Output": "40W",
+      "Waterproof": "IPX7",
+      "Battery": "20h",
+      "Bluetooth": "5.3",
+      "Feature": "TWS pairing"
+    },
+    "tags": [
+      "Speakers",
+      "40W waterproof sound",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-02",
+    "aliId": "1005007300000490978",
+    "affLink": "",
+    "name": "Mini Bluetooth Speaker, Pocket Size",
+    "category": "speakers",
+    "price": 9.9,
+    "compareAt": 29.0,
+    "rating": 4.3,
+    "reviews": 2638,
+    "orders": 32237,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with pocket mini speaker.",
+    "pros": [
+      "Built for pocket mini speaker — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the pocket mini speaker.",
+    "specs": {
+      "Output": "5W",
+      "Bluetooth": "5.2",
+      "Battery": "8h",
+      "Size": "Pocket",
+      "Waterproof": "IPX4"
+    },
+    "tags": [
+      "Speakers",
+      "pocket mini speaker",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-03",
+    "aliId": "1005007300000498897",
+    "affLink": "",
+    "name": "Bluetooth Speaker with RGB Light, 360° Sound",
+    "category": "speakers",
+    "price": 22.9,
+    "compareAt": 62.0,
+    "rating": 4.8,
+    "reviews": 2866,
+    "orders": 10943,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with 360° RGB light show.",
+    "pros": [
+      "Built for 360° RGB light show — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the 360° RGB light show.",
+    "specs": {
+      "Output": "30W",
+      "Sound": "360°",
+      "RGB": "Light show",
+      "Battery": "12h",
+      "Bluetooth": "5.3"
+    },
+    "tags": [
+      "Speakers",
+      "360° RGB light show",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-04",
+    "aliId": "1005007300000506816",
+    "affLink": "",
+    "name": "Waterproof Shower Speaker with Suction",
+    "category": "speakers",
+    "price": 14.9,
+    "compareAt": 42.0,
+    "rating": 4.6,
+    "reviews": 7314,
+    "orders": 44998,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with shower-ready waterproof.",
+    "pros": [
+      "Built for shower-ready waterproof — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the shower-ready waterproof.",
+    "specs": {
+      "Waterproof": "IPX7",
+      "Output": "10W",
+      "Mount": "Suction cup",
+      "Battery": "10h",
+      "Bluetooth": "5.0"
+    },
+    "tags": [
+      "Speakers",
+      "shower-ready waterproof",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-05",
+    "aliId": "1005007300000514735",
+    "affLink": "",
+    "name": "Retro Bluetooth Speaker, Classic Design",
+    "category": "speakers",
+    "price": 32.0,
+    "compareAt": 89.0,
+    "rating": 4.5,
+    "reviews": 1382,
+    "orders": 14313,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with classic retro look.",
+    "pros": [
+      "Built for classic retro look — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the classic retro look.",
+    "specs": {
+      "Output": "20W",
+      "Style": "Retro",
+      "Battery": "15h",
+      "Bluetooth": "5.3",
+      "Radio": "FM"
+    },
+    "tags": [
+      "Speakers",
+      "classic retro look",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-06",
+    "aliId": "1005007300000522654",
+    "affLink": "",
+    "name": "Party Bluetooth Speaker, Big Bass 100W",
+    "category": "speakers",
+    "price": 58.0,
+    "compareAt": 155.0,
+    "rating": 4.2,
+    "reviews": 5519,
+    "orders": 46530,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with 100W party bass.",
+    "pros": [
+      "Built for 100W party bass — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the 100W party bass.",
+    "specs": {
+      "Output": "100W",
+      "Bass": "Deep bass",
+      "Battery": "18h",
+      "RGB": "Light",
+      "Mic": "Karaoke input"
+    },
+    "tags": [
+      "Speakers",
+      "100W party bass",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-07",
+    "aliId": "1005007300000530573",
+    "affLink": "",
+    "name": "Solar Bluetooth Speaker, Outdoor",
+    "category": "speakers",
+    "price": 26.5,
+    "compareAt": 72.0,
+    "rating": 4.8,
+    "reviews": 5748,
+    "orders": 6454,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with solar-powered outdoor.",
+    "pros": [
+      "Built for solar-powered outdoor — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the solar-powered outdoor.",
+    "specs": {
+      "Output": "15W",
+      "Solar": "Yes",
+      "Waterproof": "IPX6",
+      "Battery": "14h",
+      "Flashlight": "Yes"
+    },
+    "tags": [
+      "Speakers",
+      "solar-powered outdoor",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-08",
+    "aliId": "1005007300000538492",
+    "affLink": "",
+    "name": "Bone Conduction Speaker, Clip-on",
+    "category": "speakers",
+    "price": 18.9,
+    "compareAt": 52.0,
+    "rating": 4.5,
+    "reviews": 1982,
+    "orders": 49900,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with clip-on bone conduction.",
+    "pros": [
+      "Built for clip-on bone conduction — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the clip-on bone conduction.",
+    "specs": {
+      "Type": "Bone conduction",
+      "Output": "10W",
+      "Clip": "Yes",
+      "Battery": "8h",
+      "Bluetooth": "5.2"
+    },
+    "tags": [
+      "Speakers",
+      "clip-on bone conduction",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-09",
+    "aliId": "1005007300000546411",
+    "affLink": "",
+    "name": "Smart Speaker with Voice Assistant",
+    "category": "speakers",
+    "price": 35.0,
+    "compareAt": 95.0,
+    "rating": 4.4,
+    "reviews": 4264,
+    "orders": 9824,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with voice smart speaker.",
+    "pros": [
+      "Built for voice smart speaker — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the voice smart speaker.",
+    "specs": {
+      "Output": "20W",
+      "Voice": "Assistant ready",
+      "WiFi": "Yes",
+      "Bluetooth": "5.2",
+      "Feature": "Smart home hub"
+    },
+    "tags": [
+      "Speakers",
+      "voice smart speaker",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "speakers-10",
+    "aliId": "1005007300000554330",
+    "affLink": "",
+    "name": "Bluetooth Speaker with FM Radio & Display",
+    "category": "speakers",
+    "price": 17.9,
+    "compareAt": 48.0,
+    "rating": 4.7,
+    "reviews": 2210,
+    "orders": 19209,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-speakers.svg",
+    "tagline": "Factory-direct speakers with FM radio + LED display.",
+    "pros": [
+      "Built for FM radio + LED display — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Bluetooth Speakers. You are paying for the hardware, not a marketing budget — and it shows in the FM radio + LED display.",
+    "specs": {
+      "Output": "12W",
+      "Radio": "FM",
+      "Display": "LED",
+      "Battery": "10h",
+      "Bluetooth": "5.1"
+    },
+    "tags": [
+      "Speakers",
+      "FM radio + LED display",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-01",
+    "aliId": "1005007300000562249",
+    "affLink": "",
+    "name": "RGB LED Strip Light 5m, App Control",
+    "category": "smart-home",
+    "price": 8.9,
+    "compareAt": 26.0,
+    "rating": 4.6,
+    "reviews": 6662,
+    "orders": 7446,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with app-controlled RGB strip.",
+    "pros": [
+      "Built for app-controlled RGB strip — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the app-controlled RGB strip.",
+    "specs": {
+      "Length": "5m",
+      "Control": "App + Voice",
+      "LED": "RGB 5050",
+      "Power": "12V",
+      "Sync": "Music"
+    },
+    "tags": [
+      "Smart Home",
+      "app-controlled RGB strip",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-02",
+    "aliId": "1005007300000570168",
+    "affLink": "",
+    "name": "Smart WiFi Bulb E27, Dimmable 2-Pack",
+    "category": "smart-home",
+    "price": 7.5,
+    "compareAt": 22.0,
+    "rating": 4.8,
+    "reviews": 5096,
+    "orders": 26902,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with WiFi smart bulb 2-pack.",
+    "pros": [
+      "Built for WiFi smart bulb 2-pack — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the WiFi smart bulb 2-pack.",
+    "specs": {
+      "Type": "E27 WiFi",
+      "Color": "RGB+W",
+      "Dimmable": "Yes",
+      "Voice": "Alexa/Google",
+      "Pack": "2"
+    },
+    "tags": [
+      "Smart Home",
+      "WiFi smart bulb 2-pack",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-03",
+    "aliId": "1005007300000578087",
+    "affLink": "",
+    "name": "Smart Plug WiFi with Energy Monitor",
+    "category": "smart-home",
+    "price": 11.9,
+    "compareAt": 33.0,
+    "rating": 4.3,
+    "reviews": 4868,
+    "orders": 8979,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with energy-monitoring smart plug.",
+    "pros": [
+      "Built for energy-monitoring smart plug — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the energy-monitoring smart plug.",
+    "specs": {
+      "Type": "WiFi plug",
+      "Power": "16A/2200W",
+      "Monitor": "Energy",
+      "Voice": "Alexa/Google",
+      "App": "Tuya"
+    },
+    "tags": [
+      "Smart Home",
+      "energy-monitoring smart plug",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-04",
+    "aliId": "1005007300000586006",
+    "affLink": "",
+    "name": "LED Desk Light Bar, Monitor Backlight",
+    "category": "smart-home",
+    "price": 15.9,
+    "compareAt": 44.0,
+    "rating": 4.6,
+    "reviews": 5752,
+    "orders": 28022,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with monitor backlight bar.",
+    "pros": [
+      "Built for monitor backlight bar — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the monitor backlight bar.",
+    "specs": {
+      "Length": "40cm",
+      "Type": "Light bar",
+      "Control": "App",
+      "Color": "RGB",
+      "Power": "USB"
+    },
+    "tags": [
+      "Smart Home",
+      "monitor backlight bar",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-05",
+    "aliId": "1005007300000593925",
+    "affLink": "",
+    "name": "Sunset Projection Lamp, 16 Colors",
+    "category": "smart-home",
+    "price": 6.9,
+    "compareAt": 20.0,
+    "rating": 4.7,
+    "reviews": 3470,
+    "orders": 49315,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with sunset projector lamp.",
+    "pros": [
+      "Built for sunset projector lamp — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the sunset projector lamp.",
+    "specs": {
+      "Type": "Projection lamp",
+      "Colors": "16 RGB",
+      "Remote": "Yes",
+      "Power": "USB",
+      "Effect": "Sunset"
+    },
+    "tags": [
+      "Smart Home",
+      "sunset projector lamp",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-06",
+    "aliId": "1005007300000601844",
+    "affLink": "",
+    "name": "Smart Doorbell Camera, WiFi 1080P",
+    "category": "smart-home",
+    "price": 32.0,
+    "compareAt": 89.0,
+    "rating": 4.9,
+    "reviews": 628,
+    "orders": 22000,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with WiFi video doorbell.",
+    "pros": [
+      "Built for WiFi video doorbell — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the WiFi video doorbell.",
+    "specs": {
+      "Camera": "1080P",
+      "WiFi": "Yes",
+      "Feature": "Two-way talk",
+      "Motion": "Detection",
+      "Night": "Vision"
+    },
+    "tags": [
+      "Smart Home",
+      "WiFi video doorbell",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-07",
+    "aliId": "1005007300000609763",
+    "affLink": "",
+    "name": "Tuya Smart Light Panel, Hexagon DIY",
+    "category": "smart-home",
+    "price": 28.9,
+    "compareAt": 79.0,
+    "rating": 4.3,
+    "reviews": 399,
+    "orders": 4076,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with hexagon light panels.",
+    "pros": [
+      "Built for hexagon light panels — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the hexagon light panels.",
+    "specs": {
+      "Type": "Hex panels",
+      "Control": "App/Voice",
+      "Pieces": "6 pack",
+      "RGB": "16M colors",
+      "Mount": "Wall"
+    },
+    "tags": [
+      "Smart Home",
+      "hexagon light panels",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-08",
+    "aliId": "1005007300000617682",
+    "affLink": "",
+    "name": "Mini Security Camera 4MP, Night Vision",
+    "category": "smart-home",
+    "price": 19.9,
+    "compareAt": 56.0,
+    "rating": 4.6,
+    "reviews": 2870,
+    "orders": 13728,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with 4MP security camera.",
+    "pros": [
+      "Built for 4MP security camera — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the 4MP security camera.",
+    "specs": {
+      "Camera": "4MP",
+      "Night": "Color vision",
+      "Storage": "TF card",
+      "WiFi": "2.4G",
+      "Feature": "PTZ"
+    },
+    "tags": [
+      "Smart Home",
+      "4MP security camera",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-09",
+    "aliId": "1005007300000625601",
+    "affLink": "",
+    "name": "Smart Curtain Motor, App Control",
+    "category": "smart-home",
+    "price": 42.0,
+    "compareAt": 115.0,
+    "rating": 4.8,
+    "reviews": 8802,
+    "orders": 44413,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with automated smart curtains.",
+    "pros": [
+      "Built for automated smart curtains — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the automated smart curtains.",
+    "specs": {
+      "Type": "Curtain motor",
+      "Control": "App/Voice",
+      "Compatibility": "Roman rod",
+      "Quiet": "Yes",
+      "Power": "Rechargeable"
+    },
+    "tags": [
+      "Smart Home",
+      "automated smart curtains",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "smart-home-10",
+    "aliId": "1005007300000633520",
+    "affLink": "",
+    "name": "Wireless Motion Sensor Night Light",
+    "category": "smart-home",
+    "price": 9.9,
+    "compareAt": 28.0,
+    "rating": 4.4,
+    "reviews": 3916,
+    "orders": 51954,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-smart-home.svg",
+    "tagline": "Factory-direct smart home with motion-sensor night light.",
+    "pros": [
+      "Built for motion-sensor night light — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Smart Home & LED. You are paying for the hardware, not a marketing budget — and it shows in the motion-sensor night light.",
+    "specs": {
+      "Sensor": "PIR motion",
+      "LED": "Warm white",
+      "Power": "Battery",
+      "Install": "Magnetic",
+      "Auto": "On/Off"
+    },
+    "tags": [
+      "Smart Home",
+      "motion-sensor night light",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-01",
+    "aliId": "1005007300000641439",
+    "affLink": "",
+    "name": "Car Phone Holder, Dashboard & Windshield",
+    "category": "car-accessories",
+    "price": 11.9,
+    "compareAt": 32.0,
+    "rating": 4.5,
+    "reviews": 6385,
+    "orders": 54412,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with auto-lock phone mount.",
+    "pros": [
+      "Built for auto-lock phone mount — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the auto-lock phone mount.",
+    "specs": {
+      "Mount": "Dashboard/Windshield",
+      "Compatibility": "4.7-7\" phones",
+      "Feature": "Gravity auto-lock",
+      "Rotation": "360°",
+      "Install": "Tool-free"
+    },
+    "tags": [
+      "Car Gear",
+      "auto-lock phone mount",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-02",
+    "aliId": "1005007300000649358",
+    "affLink": "",
+    "name": "Magnetic Car Phone Mount, MagSafe",
+    "category": "car-accessories",
+    "price": 15.9,
+    "compareAt": 44.0,
+    "rating": 4.6,
+    "reviews": 5129,
+    "orders": 36489,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with MagSafe magnetic car mount.",
+    "pros": [
+      "Built for MagSafe magnetic car mount — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the MagSafe magnetic car mount.",
+    "specs": {
+      "Type": "Magnetic MagSafe",
+      "Mount": "Vent/Dashboard",
+      "Magnet": "Strong",
+      "Rotation": "360°",
+      "Compatibility": "All phones"
+    },
+    "tags": [
+      "Car Gear",
+      "MagSafe magnetic car mount",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-03",
+    "aliId": "1005007300000657277",
+    "affLink": "",
+    "name": "Car Dash Camera 4K, Dual Lens",
+    "category": "car-accessories",
+    "price": 55.0,
+    "compareAt": 149.0,
+    "rating": 4.8,
+    "reviews": 4901,
+    "orders": 57782,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with 4K dual-lens dashcam.",
+    "pros": [
+      "Built for 4K dual-lens dashcam — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the 4K dual-lens dashcam.",
+    "specs": {
+      "Camera": "4K front + 1080p rear",
+      "Screen": "3\" IPS",
+      "Night": "Vision",
+      "G-sensor": "Yes",
+      "Storage": "TF support"
+    },
+    "tags": [
+      "Car Gear",
+      "4K dual-lens dashcam",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-04",
+    "aliId": "1005007300000665196",
+    "affLink": "",
+    "name": "Car Vacuum Cleaner, Cordless Mini",
+    "category": "car-accessories",
+    "price": 26.9,
+    "compareAt": 72.0,
+    "rating": 4.4,
+    "reviews": 5785,
+    "orders": 18825,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with cordless mini car vacuum.",
+    "pros": [
+      "Built for cordless mini car vacuum — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the cordless mini car vacuum.",
+    "specs": {
+      "Type": "Cordless handheld",
+      "Power": "120W suction",
+      "Battery": "Rechargeable",
+      "Weight": "Light",
+      "Noise": "Low"
+    },
+    "tags": [
+      "Car Gear",
+      "cordless mini car vacuum",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-05",
+    "aliId": "1005007300000673115",
+    "affLink": "",
+    "name": "Car Air Purifier, Ionizer",
+    "category": "car-accessories",
+    "price": 22.0,
+    "compareAt": 60.0,
+    "rating": 4.6,
+    "reviews": 3503,
+    "orders": 58901,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with car air ionizer purifier.",
+    "pros": [
+      "Built for car air ionizer purifier — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the car air ionizer purifier.",
+    "specs": {
+      "Type": "Ionizer",
+      "Coverage": "Car cabin",
+      "Feature": "Odor remove",
+      "Power": "12V",
+      "Quiet": "Yes"
+    },
+    "tags": [
+      "Car Gear",
+      "car air ionizer purifier",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-06",
+    "aliId": "1005007300000681034",
+    "affLink": "",
+    "name": "Car Charger Dual USB QC 3.0",
+    "category": "car-accessories",
+    "price": 8.9,
+    "compareAt": 25.0,
+    "rating": 4.7,
+    "reviews": 661,
+    "orders": 31586,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with dual-port fast car charger.",
+    "pros": [
+      "Built for dual-port fast car charger — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the dual-port fast car charger.",
+    "specs": {
+      "Input": "12-24V",
+      "Ports": "Dual USB",
+      "Output": "QC 3.0",
+      "Safety": "Multi-protect",
+      "Size": "Mini"
+    },
+    "tags": [
+      "Car Gear",
+      "dual-port fast car charger",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-07",
+    "aliId": "1005007300000688953",
+    "affLink": "",
+    "name": "Car Seat Gap Filler Organizer 2-Pack",
+    "category": "car-accessories",
+    "price": 7.9,
+    "compareAt": 22.0,
+    "rating": 4.9,
+    "reviews": 9922,
+    "orders": 51042,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with seat gap organizer 2-pack.",
+    "pros": [
+      "Built for seat gap organizer 2-pack — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the seat gap organizer 2-pack.",
+    "specs": {
+      "Type": "Seat gap filler",
+      "Pack": "2",
+      "Feature": "Storage slot",
+      "Material": "PU leather",
+      "Fit": "Universal"
+    },
+    "tags": [
+      "Car Gear",
+      "seat gap organizer 2-pack",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-08",
+    "aliId": "1005007300000696872",
+    "affLink": "",
+    "name": "Car LED Ambient Light Strip, App Control",
+    "category": "car-accessories",
+    "price": 16.9,
+    "compareAt": 46.0,
+    "rating": 4.5,
+    "reviews": 2903,
+    "orders": 23314,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with RGB car ambient lighting.",
+    "pros": [
+      "Built for RGB car ambient lighting — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the RGB car ambient lighting.",
+    "specs": {
+      "Length": "Multiple",
+      "Control": "App",
+      "Colors": "RGB",
+      "Power": "12V",
+      "Sync": "Music"
+    },
+    "tags": [
+      "Car Gear",
+      "RGB car ambient lighting",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-09",
+    "aliId": "1005007300000704791",
+    "affLink": "",
+    "name": "Car Tire Pressure Monitor, Digital",
+    "category": "car-accessories",
+    "price": 28.9,
+    "compareAt": 78.0,
+    "rating": 4.6,
+    "reviews": 8524,
+    "orders": 52162,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with digital tire pressure monitor.",
+    "pros": [
+      "Built for digital tire pressure monitor — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the digital tire pressure monitor.",
+    "specs": {
+      "Type": "TPMS",
+      "Display": "Digital",
+      "Sensors": "4",
+      "Alert": "Yes",
+      "Power": "Solar/USB"
+    },
+    "tags": [
+      "Car Gear",
+      "digital tire pressure monitor",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "car-accessories-10",
+    "aliId": "1005007300000712710",
+    "affLink": "",
+    "name": "Car Trunk Organizer, Foldable",
+    "category": "car-accessories",
+    "price": 18.9,
+    "compareAt": 52.0,
+    "rating": 4.2,
+    "reviews": 3638,
+    "orders": 1703,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-car-accessories.svg",
+    "tagline": "Factory-direct car gear with foldable trunk organizer.",
+    "pros": [
+      "Built for foldable trunk organizer — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Car Accessories. You are paying for the hardware, not a marketing budget — and it shows in the foldable trunk organizer.",
+    "specs": {
+      "Type": "Trunk organizer",
+      "Material": "Oxford fabric",
+      "Feature": "Foldable",
+      "Compartments": "Multiple",
+      "Waterproof": "Yes"
+    },
+    "tags": [
+      "Car Gear",
+      "foldable trunk organizer",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-01",
+    "aliId": "1005007300000720629",
+    "affLink": "",
+    "name": "Wireless Gaming Mouse, 26K DPI RGB",
+    "category": "gaming",
+    "price": 32.0,
+    "compareAt": 89.0,
+    "rating": 4.2,
+    "reviews": 2569,
+    "orders": 16920,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with 26K DPI wireless.",
+    "pros": [
+      "Built for 26K DPI wireless — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the 26K DPI wireless.",
+    "specs": {
+      "DPI": "26000",
+      "Connect": "2.4G/BT/USB",
+      "RGB": "Per-key",
+      "Buttons": "Programmable",
+      "Battery": "Rechargeable"
+    },
+    "tags": [
+      "Gaming",
+      "26K DPI wireless",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-02",
+    "aliId": "1005007300000728548",
+    "affLink": "",
+    "name": "Gaming Headset with Mic, 7.1 Surround",
+    "category": "gaming",
+    "price": 38.0,
+    "compareAt": 105.0,
+    "rating": 4.5,
+    "reviews": 7922,
+    "orders": 40865,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with 7.1 surround gaming headset.",
+    "pros": [
+      "Built for 7.1 surround gaming headset — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the 7.1 surround gaming headset.",
+    "specs": {
+      "Sound": "7.1 surround",
+      "Driver": "50mm",
+      "Mic": "Detachable",
+      "Connect": "USB 7.1",
+      "Light": "RGB"
+    },
+    "tags": [
+      "Gaming",
+      "7.1 surround gaming headset",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-03",
+    "aliId": "1005007300000736467",
+    "affLink": "",
+    "name": "RGB Gaming Mouse Pad, Large XXL",
+    "category": "gaming",
+    "price": 14.9,
+    "compareAt": 40.0,
+    "rating": 4.6,
+    "reviews": 5640,
+    "orders": 4159,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with XXL RGB mouse pad.",
+    "pros": [
+      "Built for XXL RGB mouse pad — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the XXL RGB mouse pad.",
+    "specs": {
+      "Size": "XXL 900x400",
+      "RGB": "Edge light",
+      "Surface": "Smooth",
+      "Base": "Non-slip",
+      "Control": "App"
+    },
+    "tags": [
+      "Gaming",
+      "XXL RGB mouse pad",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-04",
+    "aliId": "1005007300000744386",
+    "affLink": "",
+    "name": "Game Controller for PC/Android, Wireless",
+    "category": "gaming",
+    "price": 26.9,
+    "compareAt": 72.0,
+    "rating": 4.7,
+    "reviews": 7266,
+    "orders": 39746,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with wireless game controller.",
+    "pros": [
+      "Built for wireless game controller — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the wireless game controller.",
+    "specs": {
+      "Connect": "BT/2.4G",
+      "Compatibility": "PC/Android/TV",
+      "Battery": "Rechargeable",
+      "Feature": "Dual vibration",
+      "Layout": "Gamepad"
+    },
+    "tags": [
+      "Gaming",
+      "wireless game controller",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-05",
+    "aliId": "1005007300000752305",
+    "affLink": "",
+    "name": "Mechanical Gaming Keypad, One-Handed",
+    "category": "gaming",
+    "price": 29.9,
+    "compareAt": 80.0,
+    "rating": 4.9,
+    "reviews": 7038,
+    "orders": 21822,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with one-handed game keypad.",
+    "pros": [
+      "Built for one-handed game keypad — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the one-handed game keypad.",
+    "specs": {
+      "Layout": "One-handed",
+      "Switch": "Mechanical",
+      "Keys": "Programmable",
+      "RGB": "Backlit",
+      "Connect": "USB"
+    },
+    "tags": [
+      "Gaming",
+      "one-handed game keypad",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-06",
+    "aliId": "1005007300000760224",
+    "affLink": "",
+    "name": "Gaming Chair Cushion, Ergonomic",
+    "category": "gaming",
+    "price": 21.0,
+    "compareAt": 58.0,
+    "rating": 4.4,
+    "reviews": 1004,
+    "orders": 36376,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with ergonomic chair cushion.",
+    "pros": [
+      "Built for ergonomic chair cushion — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the ergonomic chair cushion.",
+    "specs": {
+      "Type": "Chair cushion",
+      "Material": "Memory foam",
+      "Feature": "Lumbar support",
+      "Cover": "Breathable",
+      "Strap": "Adjustable"
+    },
+    "tags": [
+      "Gaming",
+      "ergonomic chair cushion",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-07",
+    "aliId": "1005007300000768143",
+    "affLink": "",
+    "name": "RGB PC Cooling Fan Kit, 3-Pack",
+    "category": "gaming",
+    "price": 24.9,
+    "compareAt": 68.0,
+    "rating": 4.6,
+    "reviews": 8522,
+    "orders": 18452,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with addressable RGB fan 3-pack.",
+    "pros": [
+      "Built for addressable RGB fan 3-pack — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the addressable RGB fan 3-pack.",
+    "specs": {
+      "Size": "120mm",
+      "Pack": "3",
+      "RGB": "Addressable",
+      "Control": "App/Mobo",
+      "Connector": "PWM"
+    },
+    "tags": [
+      "Gaming",
+      "addressable RGB fan 3-pack",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-08",
+    "aliId": "1005007300000776062",
+    "affLink": "",
+    "name": "Gaming Desk Mat, Waterproof Extended",
+    "category": "gaming",
+    "price": 12.9,
+    "compareAt": 35.0,
+    "rating": 4.2,
+    "reviews": 6524,
+    "orders": 23202,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with extended waterproof mat.",
+    "pros": [
+      "Built for extended waterproof mat — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the extended waterproof mat.",
+    "specs": {
+      "Size": "Extended",
+      "Surface": "Micro-weave",
+      "Waterproof": "Yes",
+      "Base": "Rubber",
+      "Edge": "Stitched"
+    },
+    "tags": [
+      "Gaming",
+      "extended waterproof mat",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-09",
+    "aliId": "1005007300000783981",
+    "affLink": "",
+    "name": "Wireless Gamepad with Hall Joystick",
+    "category": "gaming",
+    "price": 39.0,
+    "compareAt": 105.0,
+    "rating": 4.4,
+    "reviews": 6296,
+    "orders": 5278,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with Hall-effect no-drift joystick.",
+    "pros": [
+      "Built for Hall-effect no-drift joystick — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the Hall-effect no-drift joystick.",
+    "specs": {
+      "Stick": "Hall effect",
+      "Connect": "BT/2.4G",
+      "Compatibility": "Multi-platform",
+      "Battery": "1000mAh",
+      "Feature": "No drift"
+    },
+    "tags": [
+      "Gaming",
+      "Hall-effect no-drift joystick",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gaming-10",
+    "aliId": "1005007300000791900",
+    "affLink": "",
+    "name": "Streaming Microphone, USB Condenser",
+    "category": "gaming",
+    "price": 45.0,
+    "compareAt": 120.0,
+    "rating": 4.7,
+    "reviews": 4365,
+    "orders": 42460,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-gaming.svg",
+    "tagline": "Factory-direct gaming with USB streaming microphone.",
+    "pros": [
+      "Built for USB streaming microphone — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Gaming Gear. You are paying for the hardware, not a marketing budget — and it shows in the USB streaming microphone.",
+    "specs": {
+      "Type": "USB condenser",
+      "Pattern": "Cardioid",
+      "Feature": "Plug & play",
+      "Mount": "Included",
+      "Compatibility": "PC/Mac"
+    },
+    "tags": [
+      "Gaming",
+      "USB streaming microphone",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-01",
+    "aliId": "1005007300000799819",
+    "affLink": "",
+    "name": "Fitness Tracker Band, HR & SpO2",
+    "category": "wearables",
+    "price": 12.9,
+    "compareAt": 36.0,
+    "rating": 4.8,
+    "reviews": 6938,
+    "orders": 1346,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with AMOLED fitness band.",
+    "pros": [
+      "Built for AMOLED fitness band — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the AMOLED fitness band.",
+    "specs": {
+      "Screen": "AMOLED",
+      "Health": "HR/SpO2/Sleep",
+      "Battery": "10 days",
+      "Waterproof": "5ATM",
+      "Sports": "110+ modes"
+    },
+    "tags": [
+      "Wearables",
+      "AMOLED fitness band",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-02",
+    "aliId": "1005007300000807738",
+    "affLink": "",
+    "name": "Smart Ring, Health & Sleep Tracking",
+    "category": "wearables",
+    "price": 42.0,
+    "compareAt": 115.0,
+    "rating": 4.6,
+    "reviews": 3172,
+    "orders": 44792,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with discreet smart health ring.",
+    "pros": [
+      "Built for discreet smart health ring — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the discreet smart health ring.",
+    "specs": {
+      "Type": "Smart ring",
+      "Sensors": "HR/SpO2/Temp",
+      "Battery": "7 days",
+      "Waterproof": "100m",
+      "Sizes": "8-13"
+    },
+    "tags": [
+      "Wearables",
+      "discreet smart health ring",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-03",
+    "aliId": "1005007300000815657",
+    "affLink": "",
+    "name": "Heart Rate Monitor Chest Strap",
+    "category": "wearables",
+    "price": 28.9,
+    "compareAt": 78.0,
+    "rating": 4.4,
+    "reviews": 3401,
+    "orders": 4716,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with accurate chest HR strap.",
+    "pros": [
+      "Built for accurate chest HR strap — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the accurate chest HR strap.",
+    "specs": {
+      "Type": "Chest strap",
+      "Sensor": "HR accurate",
+      "Connect": "BT/ANT+",
+      "Battery": "Replaceable",
+      "Waterproof": "IP67"
+    },
+    "tags": [
+      "Wearables",
+      "accurate chest HR strap",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-04",
+    "aliId": "1005007300000823576",
+    "affLink": "",
+    "name": "Digital Jump Rope with Counter",
+    "category": "wearables",
+    "price": 14.9,
+    "compareAt": 42.0,
+    "rating": 4.9,
+    "reviews": 7848,
+    "orders": 38771,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with digital counter jump rope.",
+    "pros": [
+      "Built for digital counter jump rope — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the digital counter jump rope.",
+    "specs": {
+      "Type": "Smart jump rope",
+      "Counter": "Digital",
+      "Feature": "Calorie track",
+      "Cord": "Adjustable",
+      "Display": "LCD"
+    },
+    "tags": [
+      "Wearables",
+      "digital counter jump rope",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-05",
+    "aliId": "1005007300000831495",
+    "affLink": "",
+    "name": "Smart Body Fat Scale, Bluetooth",
+    "category": "wearables",
+    "price": 19.9,
+    "compareAt": 55.0,
+    "rating": 4.7,
+    "reviews": 1917,
+    "orders": 8086,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with 13-metric body scale.",
+    "pros": [
+      "Built for 13-metric body scale — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the 13-metric body scale.",
+    "specs": {
+      "Type": "Body composition",
+      "Metrics": "13 metrics",
+      "Connect": "Bluetooth",
+      "Capacity": "180kg",
+      "App": "Yes"
+    },
+    "tags": [
+      "Wearables",
+      "13-metric body scale",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-06",
+    "aliId": "1005007300000839414",
+    "affLink": "",
+    "name": "Pedometer Clip, 3D Counter",
+    "category": "wearables",
+    "price": 6.9,
+    "compareAt": 19.0,
+    "rating": 4.5,
+    "reviews": 6054,
+    "orders": 40303,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with simple 3D pedometer.",
+    "pros": [
+      "Built for simple 3D pedometer — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the simple 3D pedometer.",
+    "specs": {
+      "Type": "Clip pedometer",
+      "Counter": "3D sensor",
+      "Feature": "Calorie",
+      "Display": "LCD",
+      "Battery": "Replaceable"
+    },
+    "tags": [
+      "Wearables",
+      "simple 3D pedometer",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-07",
+    "aliId": "1005007300000847333",
+    "affLink": "",
+    "name": "Posture Corrector Smart Brace",
+    "category": "wearables",
+    "price": 22.9,
+    "compareAt": 62.0,
+    "rating": 4.3,
+    "reviews": 6593,
+    "orders": 20847,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with smart posture corrector.",
+    "pros": [
+      "Built for smart posture corrector — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the smart posture corrector.",
+    "specs": {
+      "Type": "Posture trainer",
+      "Sensor": "Vibration alert",
+      "Connect": "Bluetooth",
+      "Battery": "Rechargeable",
+      "Adjustable": "Yes"
+    },
+    "tags": [
+      "Wearables",
+      "smart posture corrector",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-08",
+    "aliId": "1005007300000855252",
+    "affLink": "",
+    "name": "Smart Water Bottle, Hydration Reminder",
+    "category": "wearables",
+    "price": 24.0,
+    "compareAt": 66.0,
+    "rating": 4.8,
+    "reviews": 2517,
+    "orders": 43673,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with hydration reminder bottle.",
+    "pros": [
+      "Built for hydration reminder bottle — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the hydration reminder bottle.",
+    "specs": {
+      "Capacity": "500ml",
+      "Feature": "Hydration reminder",
+      "Display": "LED temp",
+      "Material": "Stainless",
+      "App": "Bluetooth"
+    },
+    "tags": [
+      "Wearables",
+      "hydration reminder bottle",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-09",
+    "aliId": "1005007300000863171",
+    "affLink": "",
+    "name": "EMS Muscle Stimulator Ab Belt",
+    "category": "wearables",
+    "price": 32.0,
+    "compareAt": 88.0,
+    "rating": 4.6,
+    "reviews": 4799,
+    "orders": 22379,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with EMS muscle stimulator.",
+    "pros": [
+      "Built for EMS muscle stimulator — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the EMS muscle stimulator.",
+    "specs": {
+      "Type": "EMS belt",
+      "Modes": "Multiple",
+      "Intensity": "Adjustable",
+      "Battery": "Rechargeable",
+      "Feature": "Toning"
+    },
+    "tags": [
+      "Wearables",
+      "EMS muscle stimulator",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "wearables-10",
+    "aliId": "1005007300000871090",
+    "affLink": "",
+    "name": "Sleep Eye Mask with Bluetooth Music",
+    "category": "wearables",
+    "price": 15.9,
+    "compareAt": 44.0,
+    "rating": 4.5,
+    "reviews": 2744,
+    "orders": 12982,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-wearables.svg",
+    "tagline": "Factory-direct wearables with Bluetooth music sleep mask.",
+    "pros": [
+      "Built for Bluetooth music sleep mask — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Fitness & Wearables. You are paying for the hardware, not a marketing budget — and it shows in the Bluetooth music sleep mask.",
+    "specs": {
+      "Type": "Sleep mask",
+      "Audio": "Bluetooth speakers",
+      "Feature": "Light block",
+      "Battery": "Rechargeable",
+      "Comfort": "Soft"
+    },
+    "tags": [
+      "Wearables",
+      "Bluetooth music sleep mask",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-01",
+    "aliId": "1005007300000879009",
+    "affLink": "",
+    "name": "Mini Projector 1080P, Android WiFi",
+    "category": "gadgets",
+    "price": 58.0,
+    "compareAt": 159.0,
+    "rating": 4.7,
+    "reviews": 8619,
+    "orders": 55482,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with portable 1080p projector.",
+    "pros": [
+      "Built for portable 1080p projector — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the portable 1080p projector.",
+    "specs": {
+      "Resolution": "1080P support",
+      "System": "Android",
+      "Connect": "WiFi/HDMI/USB",
+      "Lumens": "300 ANSI",
+      "Portable": "Yes"
+    },
+    "tags": [
+      "Gadgets",
+      "portable 1080p projector",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-02",
+    "aliId": "1005007300000886928",
+    "affLink": "",
+    "name": "3-Axis Handheld Gimbal Stabilizer",
+    "category": "gadgets",
+    "price": 34.9,
+    "compareAt": 96.0,
+    "rating": 4.9,
+    "reviews": 7363,
+    "orders": 37558,
+    "badge": "Hot Deal",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with 3-axis phone gimbal.",
+    "pros": [
+      "Built for 3-axis phone gimbal — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the 3-axis phone gimbal.",
+    "specs": {
+      "Axis": "3-axis",
+      "Compatibility": "Smartphone",
+      "Battery": "8h",
+      "Feature": "Object tracking",
+      "Weight": "Light"
+    },
+    "tags": [
+      "Gadgets",
+      "3-axis phone gimbal",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-03",
+    "aliId": "1005007300000894847",
+    "affLink": "",
+    "name": "Instant Print Camera for Kids, Thermal",
+    "category": "gadgets",
+    "price": 29.9,
+    "compareAt": 82.0,
+    "rating": 4.3,
+    "reviews": 7135,
+    "orders": 58852,
+    "badge": "Top Pick",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with kids instant print camera.",
+    "pros": [
+      "Built for kids instant print camera — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the kids instant print camera.",
+    "specs": {
+      "Type": "Instant print",
+      "Print": "Thermal paper",
+      "Camera": "HD",
+      "Battery": "Rechargeable",
+      "Feature": "Stickers"
+    },
+    "tags": [
+      "Gadgets",
+      "kids instant print camera",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-04",
+    "aliId": "1005007300000902766",
+    "affLink": "",
+    "name": "AI Translation Earbuds, 144 Languages",
+    "category": "gadgets",
+    "price": 45.0,
+    "compareAt": 125.0,
+    "rating": 4.5,
+    "reviews": 5879,
+    "orders": 40928,
+    "badge": "New",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with 144-language translation.",
+    "pros": [
+      "Built for 144-language translation — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the 144-language translation.",
+    "specs": {
+      "Languages": "144",
+      "Type": "Translation earbuds",
+      "Connect": "Bluetooth",
+      "App": "Yes",
+      "Battery": "6h"
+    },
+    "tags": [
+      "Gadgets",
+      "144-language translation",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-05",
+    "aliId": "1005007300000910685",
+    "affLink": "",
+    "name": "Mini Drone with Camera, Pocket",
+    "category": "gadgets",
+    "price": 42.0,
+    "compareAt": 119.0,
+    "rating": 4.6,
+    "reviews": 1700,
+    "orders": 11775,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with pocket camera drone.",
+    "pros": [
+      "Built for pocket camera drone — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the pocket camera drone.",
+    "specs": {
+      "Camera": "HD",
+      "Type": "Mini drone",
+      "Flight": "8 min",
+      "Control": "Remote/App",
+      "Feature": "Altitude hold"
+    },
+    "tags": [
+      "Gadgets",
+      "pocket camera drone",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-06",
+    "aliId": "1005007300000918604",
+    "affLink": "",
+    "name": "Electronic Dog Training Collar, Rechargeable",
+    "category": "gadgets",
+    "price": 26.9,
+    "compareAt": 74.0,
+    "rating": 4.8,
+    "reviews": 445,
+    "orders": 33069,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with rechargeable dog trainer.",
+    "pros": [
+      "Built for rechargeable dog trainer — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the rechargeable dog trainer.",
+    "specs": {
+      "Type": "Training collar",
+      "Modes": "Beep/Vib/Shock",
+      "Range": "300m",
+      "Waterproof": "IPX7",
+      "Battery": "Rechargeable"
+    },
+    "tags": [
+      "Gadgets",
+      "rechargeable dog trainer",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-07",
+    "aliId": "1005007300000926523",
+    "affLink": "",
+    "name": "Digital Microscope, 1000x, WiFi",
+    "category": "gadgets",
+    "price": 32.0,
+    "compareAt": 89.0,
+    "rating": 4.3,
+    "reviews": 10016,
+    "orders": 15145,
+    "badge": "Trending",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with 1000x WiFi microscope.",
+    "pros": [
+      "Built for 1000x WiFi microscope — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the 1000x WiFi microscope.",
+    "specs": {
+      "Magnification": "1000x",
+      "Connect": "WiFi/USB",
+      "Screen": "HD display",
+      "Feature": "Photo/Video",
+      "Light": "LED"
+    },
+    "tags": [
+      "Gadgets",
+      "1000x WiFi microscope",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-08",
+    "aliId": "1005007300000934442",
+    "affLink": "",
+    "name": "Portable Neck Fan, Bladeless 4000mAh",
+    "category": "gadgets",
+    "price": 18.9,
+    "compareAt": 52.0,
+    "rating": 4.4,
+    "reviews": 8761,
+    "orders": 36439,
+    "badge": "",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with bladeless hands-free neck fan.",
+    "pros": [
+      "Built for bladeless hands-free neck fan — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the bladeless hands-free neck fan.",
+    "specs": {
+      "Type": "Neck fan",
+      "Battery": "4000mAh",
+      "Speed": "3 levels",
+      "Blade": "Bladeless",
+      "Wear": "Hands-free"
+    },
+    "tags": [
+      "Gadgets",
+      "bladeless hands-free neck fan",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-09",
+    "aliId": "1005007300000942361",
+    "affLink": "",
+    "name": "Smart Laser Measure, 50m Digital",
+    "category": "gadgets",
+    "price": 24.9,
+    "compareAt": 68.0,
+    "rating": 4.6,
+    "reviews": 6479,
+    "orders": 18515,
+    "badge": "Editor's Pick",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with 50m digital laser measure.",
+    "pros": [
+      "Built for 50m digital laser measure — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the 50m digital laser measure.",
+    "specs": {
+      "Range": "50m",
+      "Type": "Laser measure",
+      "Display": "Digital",
+      "Feature": "Area/Volume",
+      "Battery": "AAA"
+    },
+    "tags": [
+      "Gadgets",
+      "50m digital laser measure",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  },
+  {
+    "id": "gadgets-10",
+    "aliId": "1005007300000950280",
+    "affLink": "",
+    "name": "Mini Thermal Printer, Bluetooth Receipt",
+    "category": "gadgets",
+    "price": 26.0,
+    "compareAt": 72.0,
+    "rating": 4.5,
+    "reviews": 5872,
+    "orders": 2773,
+    "badge": "Bestseller",
+    "image": "",
+    "fallback": "assets/images/p-gadgets.svg",
+    "tagline": "Factory-direct gadgets with Bluetooth mini printer.",
+    "pros": [
+      "Built for Bluetooth mini printer — stands out at this price",
+      "Solid everyday build quality that punches above its cost",
+      "Ships direct from Shenzhen, so you skip the retail markup"
+    ],
+    "cons": [
+      "Packaging is basic compared to premiumWestern brands",
+      "Software/app experience is functional rather than polished"
+    ],
+    "verdict": "A strong value pick in Creative Gadgets. You are paying for the hardware, not a marketing budget — and it shows in the Bluetooth mini printer.",
+    "specs": {
+      "Type": "Thermal printer",
+      "Connect": "Bluetooth",
+      "Paper": "58mm",
+      "Battery": "Rechargeable",
+      "Compatibility": "iOS/Android"
+    },
+    "tags": [
+      "Gadgets",
+      "Bluetooth mini printer",
+      "Shenzhen direct"
+    ],
+    "updated": "2026-11-19"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tws-earbuds",
+    "name": "TWS Earbuds",
+    "short": "Earbuds",
+    "icon": "earbuds",
+    "color": "#c1362e",
+    "description": "Factory-direct earbuds from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "smart-watches",
+    "name": "Smart Watches",
+    "short": "Watches",
+    "icon": "watch",
+    "color": "#b5342c",
+    "description": "Factory-direct watches from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "power-banks",
+    "name": "Power Banks",
+    "short": "Power",
+    "icon": "battery",
+    "color": "#a8452f",
+    "description": "Factory-direct power from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "phone-cases",
+    "name": "Phone Cases",
+    "short": "Cases",
+    "icon": "case",
+    "color": "#9c3f6b",
+    "description": "Factory-direct cases from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "chargers",
+    "name": "Chargers & Cables",
+    "short": "Charging",
+    "icon": "charger",
+    "color": "#3f6b9c",
+    "description": "Factory-direct charging from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "keyboards",
+    "name": "Mechanical Keyboards",
+    "short": "Keyboards",
+    "icon": "keyboard",
+    "color": "#4a5a8c",
+    "description": "Factory-direct keyboards from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "speakers",
+    "name": "Bluetooth Speakers",
+    "short": "Speakers",
+    "icon": "speaker",
+    "color": "#2f7a68",
+    "description": "Factory-direct speakers from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "smart-home",
+    "name": "Smart Home & LED",
+    "short": "Smart Home",
+    "icon": "home",
+    "color": "#c1682e",
+    "description": "Factory-direct smart home from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "car-accessories",
+    "name": "Car Accessories",
+    "short": "Car Gear",
+    "icon": "car",
+    "color": "#37566e",
+    "description": "Factory-direct car gear from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming Gear",
+    "short": "Gaming",
+    "icon": "gaming",
+    "color": "#6b3fa0",
+    "description": "Factory-direct gaming from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "wearables",
+    "name": "Fitness & Wearables",
+    "short": "Wearables",
+    "icon": "fitness",
+    "color": "#2f7a4a",
+    "description": "Factory-direct wearables from Shenzhen — tested picks at source prices."
+  },
+  {
+    "id": "gadgets",
+    "name": "Creative Gadgets",
+    "short": "Gadgets",
+    "icon": "gadget",
+    "color": "#b5662e",
+    "description": "Factory-direct gadgets from Shenzhen — tested picks at source prices."
+  }
+]
